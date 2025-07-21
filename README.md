@@ -42,11 +42,11 @@ Install required packages:
 ```bash
 pip install pandas scikit-learn matplotlib seaborn joblib
 ```
-#NOTE THAT THE SCREENSHOTS FOR THE MODEL ARE WITHIN THE PDF FILE
+# NOTE THAT THE SCREENSHOTS FOR THE MODEL ARE WITHIN THE PDF FILE
 
 
 
-##HOW TO USE
+## HOW TO USE
 import joblib
 import pandas as pd
 
